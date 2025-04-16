@@ -1,5 +1,7 @@
 # Autonomous Vehicle Object Detection Using YOLO
 
+[<img alt="alt_text" width="800px" src="out/chicago1.jpg" />](https://www.google.com/)
+
 ## Project Overview
 
 This project implements real-time object detection for autonomous vehicles using the YOLO (You Only Look Once) algorithm. The system can detect and classify multiple objects such as pedestrians, cars, motorcycles, and road features in a single forward pass, making it suitable for real-time applications in self-driving cars.
