@@ -101,6 +101,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+# Download the following file and place it in /model_data/variables/
+https://drive.google.com/file/d/1NgTlSXK7Ih5o09Dyg2cuIWRihoWLrIYj
+
 # Run the notebook
 jupyter notebook CNN_Autonomous_driving_Car_detection.ipynb
 ```
